@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>24ff4954-9a61-4c73-8d09-f4191576f74c</webElementGuid>
+      <webElementGuid>d1938810-3cb5-40a7-a2de-c11b0b1b4670</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>b6b016af-52d1-4285-9d72-3055d0c879f1</webElementGuid>
+      <webElementGuid>bc55fc63-cde4-41ab-8590-ad48f21d59fa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>name</name>
       <type>Main</type>
       <value>commit</value>
-      <webElementGuid>38bb3a7f-3702-4092-9f35-32494c3771c7</webElementGuid>
+      <webElementGuid>7ac87db3-2dbb-4708-a8b4-4717b86d1461</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>value</name>
       <type>Main</type>
       <value>Login</value>
-      <webElementGuid>420b584c-b21a-407d-9af3-13bf3501541e</webElementGuid>
+      <webElementGuid>4058d6f3-49c1-49d0-918a-28d6e9a74126</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn login-btn</value>
-      <webElementGuid>a9135f48-6716-4e1c-ac52-dc018677997d</webElementGuid>
+      <webElementGuid>b5ff8adc-dc71-4920-877a-7f3161c3198d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;login-form&quot;)/input[@class=&quot;btn login-btn&quot;]</value>
-      <webElementGuid>036a749d-a780-46c2-bbcc-c4686df1c6be</webElementGuid>
+      <webElementGuid>fe6507dc-39a2-4fb6-a71c-86070c467092</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@name='commit']</value>
-      <webElementGuid>528da684-edcc-4265-b43b-243c2971cb81</webElementGuid>
+      <webElementGuid>d0af9979-71eb-433b-bb8e-92f90a08a97b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='login-form']/input[7]</value>
-      <webElementGuid>aedff833-8332-40dc-887d-f9b79ab5fc8e</webElementGuid>
+      <webElementGuid>f0cbdb92-502b-4d82-93c4-64748ebd80a5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//input[7]</value>
-      <webElementGuid>2928ec40-83c9-4372-9e23-806d5424f3a2</webElementGuid>
+      <webElementGuid>5a759fc7-a980-40d2-8dcd-e9962da3f462</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +94,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'submit' and @name = 'commit']</value>
-      <webElementGuid>70bbb164-ccf8-4ad6-bea9-9fdb3ccf4edd</webElementGuid>
+      <webElementGuid>9bbf6978-514e-4460-bc4d-98aca2fe7beb</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

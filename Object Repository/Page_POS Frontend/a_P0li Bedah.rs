@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_P0li Bedah</name>
+   <tag></tag>
+   <elementGuidId>00fa28a6-c356-47b5-ae5f-8041959ef689</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='prescription-data']/div[3]/div[3]/div/div/a[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>2dce4553-32d2-484e-a60e-21199bfbd74a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-poly-id</name>
+      <type>Main</type>
+      <value>857</value>
+      <webElementGuid>1bd7afaa-cd31-4e3a-a021-93a170e19fec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-poly-search</name>
+      <type>Main</type>
+      <value>P0li Bedah</value>
+      <webElementGuid>c0c7e7bc-3127-49f0-a040-85c09fe3f831</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>P0li Bedah</value>
+      <webElementGuid>2d11d10f-b271-466f-96cf-656b5ff68512</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;prescription-data&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col s3&quot;]/div[@class=&quot;absolute&quot;]/div[@class=&quot;search-results poly-suggestion&quot;]/a[3]</value>
+      <webElementGuid>7f6ac442-6442-48ee-8550-63f45ab50ea5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='prescription-data']/div[3]/div[3]/div/div/a[3]</value>
+      <webElementGuid>e192a18b-b03f-4ec4-9648-4f846ecc84e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'P0li Bedah')]</value>
+      <webElementGuid>df5a716f-e86f-4fde-9667-88fba2870410</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Klinik 120'])[1]/following::a[2]</value>
+      <webElementGuid>8dec1fca-46c0-41d5-b2b6-08fc644c3c31</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Poli*'])[1]/following::a[3]</value>
+      <webElementGuid>660f0369-ca42-4661-a324-39eea27868df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nayaka Husada 01'])[1]/preceding::a[1]</value>
+      <webElementGuid>d12947dc-11f9-4c68-a002-534a0f880786</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Klinik Muslimat Nu 01'])[1]/preceding::a[2]</value>
+      <webElementGuid>402ac7f2-2eca-43a8-abc3-331b360b415b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='P0li Bedah']/parent::*</value>
+      <webElementGuid>f8610662-1f7b-402e-b399-de64ea3cbe25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/a[3]</value>
+      <webElementGuid>702b8a1a-f019-4743-97d7-d7f212b1ceef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = 'P0li Bedah' or . = 'P0li Bedah')]</value>
+      <webElementGuid>dfaec769-335d-4011-b2c2-4509bf9195f5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

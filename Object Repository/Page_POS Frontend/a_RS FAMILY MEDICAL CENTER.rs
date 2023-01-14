@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_RS FAMILY MEDICAL CENTER</name>
+   <tag></tag>
+   <elementGuidId>1e33aa52-867d-4a1b-9cd4-3e72b5391e03</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='prescription-data']/div[3]/div[2]/div/div/a[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>cdc46b60-fde8-4f8e-9d83-eb1dda04d9a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-ppk-origin-id</name>
+      <type>Main</type>
+      <value>7</value>
+      <webElementGuid>cbfb4bf2-7fd8-44b0-a6a8-f02a59cc37f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-ppk-origin-search</name>
+      <type>Main</type>
+      <value>RS FAMILY MEDICAL CENTER</value>
+      <webElementGuid>b7ea8f53-ef1f-4514-b0e4-5e60dc0b5c47</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>RS FAMILY MEDICAL CENTER</value>
+      <webElementGuid>8fecb971-8e41-4228-8c24-69c8d4fbb40b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;prescription-data&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col s3&quot;]/div[@class=&quot;absolute&quot;]/div[@class=&quot;search-results ppk-origin-suggestion&quot;]/a[2]</value>
+      <webElementGuid>5a4a5cec-a925-4863-8ac2-d4573dbdf33a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='prescription-data']/div[3]/div[2]/div/div/a[2]</value>
+      <webElementGuid>5d4c9ce9-dfbb-40fe-9a29-1b7a96ba1889</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'RS FAMILY MEDICAL CENTER')]</value>
+      <webElementGuid>9711bbde-0fe1-40f7-8d93-71d54c47f243</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='RSUD CIBINONG'])[1]/following::a[1]</value>
+      <webElementGuid>17214bda-7a6e-4925-8ea8-ed74c7d38fd3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PPK Asal*'])[1]/following::a[2]</value>
+      <webElementGuid>9266313b-3cad-4c01-9ee4-a4f15115b04c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kec. Gambir'])[1]/preceding::a[1]</value>
+      <webElementGuid>b7dc0b65-1694-4fc3-a5f0-e06ad1292095</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kel. Cempaka Baru'])[1]/preceding::a[2]</value>
+      <webElementGuid>2570ecec-7c70-4aa5-9ca3-dc4fc450f1ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='RS FAMILY MEDICAL CENTER']/parent::*</value>
+      <webElementGuid>56671940-67fa-42f2-83e2-234755e893bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/a[2]</value>
+      <webElementGuid>6d9ef31d-6f2d-4cb6-a671-3881047ef52b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = 'RS FAMILY MEDICAL CENTER' or . = 'RS FAMILY MEDICAL CENTER')]</value>
+      <webElementGuid>29926774-1c9a-44d5-8012-11d5cc55d7c4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

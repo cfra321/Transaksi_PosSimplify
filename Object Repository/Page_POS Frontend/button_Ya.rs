@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//form[@id='edit_cashier_session_5326']/div[2]/div[2]/button</value>
+         <value>//form[@id='edit_cashier_session_5337']/div[2]/div[2]/button</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>722b248f-8a0d-4fb3-97db-a7505a0f2ef0</webElementGuid>
+      <webElementGuid>ddd06cdc-d5cc-470b-bede-464af25fca5c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>data-action-scene-submit</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>2079167d-2b13-4f9b-a320-71b53315c3d8</webElementGuid>
+      <webElementGuid>4514b833-96b2-4e81-95ae-b3474713f5d7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>waves-effect waves-green btn confirm col s12</value>
-      <webElementGuid>01b955fa-7982-4d6e-8723-2f5728e2402d</webElementGuid>
+      <webElementGuid>587841c3-79e4-4497-8000-c2090e4c7c2d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,23 +46,23 @@
       <name>text</name>
       <type>Main</type>
       <value>Ya</value>
-      <webElementGuid>739e2342-b49d-430f-ae2c-539b7c420a67</webElementGuid>
+      <webElementGuid>298b53ff-71c1-4ff5-8311-7f1a64639ed3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;edit_cashier_session_5326&quot;)/div[@class=&quot;modal-footer&quot;]/div[@class=&quot;row&quot;]/button[@class=&quot;waves-effect waves-green btn confirm col s12&quot;]</value>
-      <webElementGuid>83377975-a792-4704-974b-3d19bdd90ccb</webElementGuid>
+      <value>id(&quot;edit_cashier_session_5337&quot;)/div[@class=&quot;modal-footer&quot;]/div[@class=&quot;row&quot;]/button[@class=&quot;waves-effect waves-green btn confirm col s12&quot;]</value>
+      <webElementGuid>1d179da9-6863-46af-ac2a-56a422112ba5</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//form[@id='edit_cashier_session_5326']/div[2]/div[2]/button</value>
-      <webElementGuid>141b2072-6e9d-43a2-b7c0-5e8bfefe007c</webElementGuid>
+      <value>//form[@id='edit_cashier_session_5337']/div[2]/div[2]/button</value>
+      <webElementGuid>03e31f4a-428b-4676-92cb-23af667d7cd4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Jumlah Uang Setor'])[1]/following::button[1]</value>
-      <webElementGuid>96446acc-d112-46d7-89e2-4c9c938bc141</webElementGuid>
+      <webElementGuid>c2a92449-1476-4d99-8717-efadbf2ca067</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Apakah Anda yakin akan mengakhiri sesi ini?'])[1]/following::button[1]</value>
-      <webElementGuid>22524898-1dc1-4bfc-8ac8-e9e011f78afe</webElementGuid>
+      <webElementGuid>f3c54ef9-368a-444c-abaa-b22ce1c386a5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Ya']/parent::*</value>
-      <webElementGuid>b71bd5de-c6f5-45db-8c75-ce5a342bb859</webElementGuid>
+      <webElementGuid>52be72ea-630c-4000-ad0d-0d740c566c2a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div[2]/button</value>
-      <webElementGuid>c94d7749-3fd1-4826-98eb-b441d5b56ece</webElementGuid>
+      <webElementGuid>8bf41154-6735-45ed-90c9-eab09d297ad3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,31 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[(text() = 'Ya' or . = 'Ya')]</value>
-      <webElementGuid>107b39aa-c9a1-4d78-b2c0-1431fed8baf2</webElementGuid>
+      <webElementGuid>6103c903-4f3f-4feb-ac41-64aa760ec00d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='edit_cashier_session_5333']/div[2]/div[2]/button</value>
+      <webElementGuid>883031c3-226d-40c0-84e8-375ad2c7b3c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='edit_cashier_session_5330']/div[2]/div[2]/button</value>
+      <webElementGuid>7212ecba-3760-4235-8fe7-306d2bb74dab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='edit_cashier_session_5326']/div[2]/div[2]/button</value>
+      <webElementGuid>141b2072-6e9d-43a2-b7c0-5e8bfefe007c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

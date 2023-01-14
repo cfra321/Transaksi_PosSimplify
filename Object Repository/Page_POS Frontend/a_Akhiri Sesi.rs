@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>72d18caa-3704-43b5-932a-9b23e535241a</webElementGuid>
+      <webElementGuid>a9f1520b-52de-4b55-9894-15c5ff5dcd39</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>id</name>
       <type>Main</type>
       <value>btn-close-session</value>
-      <webElementGuid>c79c7e7a-5c6d-49e9-95f4-78919edc95fe</webElementGuid>
+      <webElementGuid>e160565c-143f-4e8a-a1a3-d6445f90e7da</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>data-close-session</name>
       <type>Main</type>
       <value>data-close-session</value>
-      <webElementGuid>0132d5f8-b9bd-4c71-a148-e58a9a52506c</webElementGuid>
+      <webElementGuid>b98fb80e-132f-4f7b-b0f5-f50c2f50a78f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>class</name>
       <type>Main</type>
       <value>waves-effect waves-light btn</value>
-      <webElementGuid>6be6cec8-8eba-445c-b7e2-9c6e55b63a3d</webElementGuid>
+      <webElementGuid>b9d18b06-c165-417e-a85e-28b7a0bc390c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/session_manager/end_session_confirm</value>
-      <webElementGuid>f2a8f2db-cf15-4a1b-8171-5e8d50f47689</webElementGuid>
+      <webElementGuid>97dddbc3-66dc-46dc-af65-f69c855b12e2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Akhiri Sesi</value>
-      <webElementGuid>43a49703-fb35-4586-975e-96454d9c4c1d</webElementGuid>
+      <webElementGuid>49989302-3e67-4375-9e49-3b50a5811792</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;btn-close-session&quot;)</value>
-      <webElementGuid>100384c6-bab7-44d8-9fc8-153af2b65648</webElementGuid>
+      <webElementGuid>3b3f9c96-06e9-4b4f-a592-18613c4114f1</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//a[@id='btn-close-session']</value>
-      <webElementGuid>83c6b56f-06c1-413b-bd60-91e05645b7f0</webElementGuid>
+      <webElementGuid>7439f7c7-77a7-4edf-81f8-885e8c58501d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//ul[@id='account']/div/div[3]/div[2]/a</value>
-      <webElementGuid>57bef5b2-3b23-49b5-a081-7ce3125b1a8b</webElementGuid>
+      <webElementGuid>0cd77ddb-f7f9-4b53-9e5b-9f695b237348</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Akhiri Sesi')]</value>
-      <webElementGuid>f64fb5ec-edd3-4efa-8c95-132698c81122</webElementGuid>
+      <webElementGuid>7c5fc1e5-4ca6-4f4d-a87c-2072c5b68b2f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Ganti Kata Sandi'])[1]/following::a[1]</value>
-      <webElementGuid>c61ecc81-924c-496f-a222-3edfff736ea4</webElementGuid>
+      <webElementGuid>20c4c448-b40e-43c5-bc4d-cc52b093bce7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Manager'])[1]/following::a[2]</value>
-      <webElementGuid>e22d9edf-eed9-47ac-809c-401536ad7a13</webElementGuid>
+      <webElementGuid>e36cccb1-a746-4646-b361-fe1b31faccd6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[1]/preceding::a[1]</value>
-      <webElementGuid>2e50f121-4e23-4362-8519-994cd2416d67</webElementGuid>
+      <webElementGuid>624c4400-15e7-4fbf-bf04-8d3b334b611f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +126,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Valid'])[1]/preceding::a[2]</value>
-      <webElementGuid>9fdc880e-4b49-412a-bd6a-bf3f0026a481</webElementGuid>
+      <webElementGuid>57ded99c-94ba-41b6-8be0-d6f117330be8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,7 +134,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Akhiri Sesi']/parent::*</value>
-      <webElementGuid>75692a40-3a6b-4951-81f8-451f1dc17c04</webElementGuid>
+      <webElementGuid>eed322e2-6c82-4c5c-8392-2a0a91330e7d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -142,7 +142,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, '/session_manager/end_session_confirm')]</value>
-      <webElementGuid>0259879c-49b2-4863-a3c9-d80b05490ede</webElementGuid>
+      <webElementGuid>722054b8-dda6-4b18-a9da-75c2b9755ca7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -150,7 +150,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/a</value>
-      <webElementGuid>f2a5c2bf-f429-4058-abd9-897897cc1998</webElementGuid>
+      <webElementGuid>5ffb3381-37f2-49e3-9248-47af0dd7868e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -158,6 +158,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@id = 'btn-close-session' and @href = '/session_manager/end_session_confirm' and (text() = 'Akhiri Sesi' or . = 'Akhiri Sesi')]</value>
-      <webElementGuid>48f57961-ad68-4ed2-b6b1-e3d920d41002</webElementGuid>
+      <webElementGuid>b7178b71-447a-481c-9749-40434cf19a73</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

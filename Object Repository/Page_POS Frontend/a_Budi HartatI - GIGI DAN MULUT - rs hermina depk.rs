@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Budi HartatI - GIGI DAN MULUT - rs hermina depk</name>
+   <tag></tag>
+   <elementGuidId>1f8ac849-437f-411d-924c-3fe0dbfe455a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='prescription-data']/div[3]/div/div/div/a[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>844554d0-e113-46e0-8927-f44ffda98be5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-doctor-id</name>
+      <type>Main</type>
+      <value>51</value>
+      <webElementGuid>d67db808-654a-468e-9de2-45a7579c559f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-doctor-name</name>
+      <type>Main</type>
+      <value>Budi HartatI</value>
+      <webElementGuid>13424169-4676-4eed-b245-1b51ea7070f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-poly</name>
+      <type>Main</type>
+      <value>GIGI DAN MULUT</value>
+      <webElementGuid>0827a4f4-19e0-4ff2-91be-2dd20587d98f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-poly-id</name>
+      <type>Main</type>
+      <value>116</value>
+      <webElementGuid>953a0214-7060-47cc-89a2-638c32106e96</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-ppk</name>
+      <type>Main</type>
+      <value>Luar</value>
+      <webElementGuid>9acbc1af-bb8c-4904-8e16-837f4dfc1860</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-ppk-id</name>
+      <type>Main</type>
+      <value>4</value>
+      <webElementGuid>37617042-6655-4f7d-815f-a863b32a7dd2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-practice-address</name>
+      <type>Main</type>
+      <value>rs hermina depk</value>
+      <webElementGuid>236adb10-f0e5-4dd0-883e-5f242654f204</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Budi HartatI - GIGI DAN MULUT - rs hermina depk</value>
+      <webElementGuid>7770a2e6-bc0f-4894-a553-50db9b160495</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;prescription-data&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col s3&quot;]/div[@class=&quot;absolute&quot;]/div[@class=&quot;search-results doctor-suggestion&quot;]/a[2]</value>
+      <webElementGuid>aaaa4ad7-5c7e-419a-a46a-ac9338e4186e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='prescription-data']/div[3]/div/div/div/a[2]</value>
+      <webElementGuid>b447c336-5c5f-45ba-809b-0e85d479f5b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Budi HartatI - GIGI DAN MULUT - rs hermina depk')]</value>
+      <webElementGuid>a52a5628-86c2-4590-b21a-7ed84d1587d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Unggul Budihusodo - PENYAKIT DALAM - HERMINA BOGOR'])[1]/following::a[1]</value>
+      <webElementGuid>3ca62ff3-3998-4ec4-9610-b2b05ac7adc5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dokter*'])[1]/following::a[2]</value>
+      <webElementGuid>51e4f44f-033e-4316-858c-e6ee1f6785c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Drh Ketut Satia Budi Dharma - Umum, - jakarta'])[1]/preceding::a[2]</value>
+      <webElementGuid>50d76bff-0328-4103-ab04-1464d5a983a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Budi HartatI - GIGI DAN MULUT - rs hermina depk']/parent::*</value>
+      <webElementGuid>c03fb860-750b-4320-a630-a35121047e41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/a[2]</value>
+      <webElementGuid>30c47abf-2818-40ac-ba80-4c351cd4cc1d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = 'Budi HartatI - GIGI DAN MULUT - rs hermina depk' or . = 'Budi HartatI - GIGI DAN MULUT - rs hermina depk')]</value>
+      <webElementGuid>ee781da8-7b59-443c-bae0-d98cb3b35345</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

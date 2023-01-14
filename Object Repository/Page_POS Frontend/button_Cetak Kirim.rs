@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>1f4b45be-2503-4a32-8de9-50ec9d49e46f</webElementGuid>
+      <webElementGuid>f8133f4c-7a3d-4949-b5d9-5bfcc9d6e504</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>id</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>fc524eae-0519-4366-818b-f6d9d60c43de</webElementGuid>
+      <webElementGuid>9615805e-8c8a-43d1-bfd9-33be7a19fde6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>waves-effect waves-green btn submit</value>
-      <webElementGuid>08b2b625-9518-4d32-adb9-4f10f98e9218</webElementGuid>
+      <webElementGuid>1aaa8f60-f4e3-40c1-bca4-03e19d3f9eca</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -49,7 +49,7 @@
     Cetak/ Kirim
     
   </value>
-      <webElementGuid>bff15211-e57e-40fa-9dac-779eda1b500b</webElementGuid>
+      <webElementGuid>73eb34ba-8a67-4c12-81b9-19de1b766315</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -57,7 +57,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;submit&quot;)</value>
-      <webElementGuid>2be2da4c-9016-407a-8ad9-c254bddf0af9</webElementGuid>
+      <webElementGuid>6f1f39a8-1662-4a94-bb43-846f3ef82f00</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -65,7 +65,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='submit']</value>
-      <webElementGuid>77239581-b62b-4260-b9f7-82673afa1ef7</webElementGuid>
+      <webElementGuid>e3b5a997-06a5-4cc8-960c-f3c9c0a2a6a8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -73,7 +73,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='main-modal']/div/center/button</value>
-      <webElementGuid>96adb8b4-8b38-4c2f-a30b-ba29fdc16931</webElementGuid>
+      <webElementGuid>4858f15f-dd26-4e6a-a6fa-7d796dcdb577</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -81,7 +81,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Nomor Whats App'])[1]/following::button[1]</value>
-      <webElementGuid>23d07cae-4237-499f-8511-bae8a067be85</webElementGuid>
+      <webElementGuid>de613d89-f2aa-4686-b6e6-92354367f40a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -89,7 +89,15 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Kirim WA'])[1]/following::button[1]</value>
-      <webElementGuid>af2f32f0-05f3-4824-ac79-1009e9a1fdf3</webElementGuid>
+      <webElementGuid>7f66c90d-aedc-465b-a35d-5951cddc1120</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'submit', '&quot;', ')')])[1]/preceding::button[1]</value>
+      <webElementGuid>966be215-ac79-465d-beea-a052ada62fac</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -97,7 +105,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Cetak/ Kirim']/parent::*</value>
-      <webElementGuid>ebef2960-85f1-41e4-89cb-c11a0502a62a</webElementGuid>
+      <webElementGuid>673270b2-562e-4085-8bda-0832431ebe24</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -105,7 +113,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//center/button</value>
-      <webElementGuid>bd549ce6-c376-463f-8e8e-8115bde2c683</webElementGuid>
+      <webElementGuid>028aca7e-629c-426c-af83-d466992c6617</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,14 +127,6 @@
     Cetak/ Kirim
     
   ')]</value>
-      <webElementGuid>36536b3c-60b7-489e-803f-a382f9e2d9b5</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'submit', '&quot;', ')')])[1]/preceding::button[1]</value>
-      <webElementGuid>2b96d1fc-5f55-4d06-8da5-b773b43d7b30</webElementGuid>
+      <webElementGuid>8a786050-51ca-48c8-b05b-105f22e758e1</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

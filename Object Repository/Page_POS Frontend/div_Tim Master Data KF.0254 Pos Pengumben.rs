@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>13f59926-2e04-4c16-8cb1-58ffc534dcd7</webElementGuid>
+      <webElementGuid>e9664f71-6a45-49f0-9787-9f23b565aa6e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>user-human-name</value>
-      <webElementGuid>210a9c55-cee3-4590-8aca-a18c50b68661</webElementGuid>
+      <webElementGuid>0c3f5cbe-646e-4c20-a406-0c6d07cf3091</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -40,7 +40,7 @@
       <value>
         Tim Master Data KF.0254 Pos Pengumben
       </value>
-      <webElementGuid>3213b7c7-10eb-41a8-9e97-dedb58613495</webElementGuid>
+      <webElementGuid>b4c918e1-c36f-4fbc-8079-c4f302a0bee0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -48,7 +48,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;nav-mobile&quot;)/li[4]/div[@class=&quot;dropdown-button&quot;]/div[@class=&quot;user-human-name&quot;]</value>
-      <webElementGuid>3b2165ce-2ab6-4364-86aa-3f51def480a2</webElementGuid>
+      <webElementGuid>00d8a730-f396-4308-b88b-2390149a83fa</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -56,7 +56,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//ul[@id='nav-mobile']/li[4]/div/div[2]</value>
-      <webElementGuid>4e59ebe5-4613-4389-bc8e-92a9c1805965</webElementGuid>
+      <webElementGuid>0f49bc9c-a605-4856-9273-73d177d8bcfb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -64,7 +64,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Lihat Semua...'])[1]/following::div[3]</value>
-      <webElementGuid>23fbe2a3-e211-4cfa-8513-fc255f0fb1ed</webElementGuid>
+      <webElementGuid>422d09f1-e553-43f1-96b5-3f2d7e927df6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -72,7 +72,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Ada permintaan barang mendesak baruAda permintaan barang baru, klik untuk menampilkan'])[1]/following::div[8]</value>
-      <webElementGuid>753636d4-73ed-4978-bd1b-e2aef16e178d</webElementGuid>
+      <webElementGuid>4b7ec70d-6bd0-45bb-9c36-448f49c867d3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -80,7 +80,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Manager'])[1]/preceding::div[3]</value>
-      <webElementGuid>a77fd73f-f3cf-4d3f-8900-5998b527c68f</webElementGuid>
+      <webElementGuid>d819fb83-477f-41e2-9844-af802cf36e2d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -88,7 +88,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Tim Master Data KF.0254 Pos Pengumben']/parent::*</value>
-      <webElementGuid>793a7cc3-ca06-4b35-b1ca-2f3c71bfdbee</webElementGuid>
+      <webElementGuid>bb915b89-1a3e-4b24-b351-149e0e9f1719</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -96,7 +96,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[4]/div/div[2]</value>
-      <webElementGuid>19c717d0-d3de-4e8f-9845-8734df03a61e</webElementGuid>
+      <webElementGuid>ca8040fe-ab9d-492d-9aa2-42ac8836e39a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -108,6 +108,6 @@
       ' or . = '
         Tim Master Data KF.0254 Pos Pengumben
       ')]</value>
-      <webElementGuid>e7f2ceaa-bbd4-42ae-aaeb-51f3bfad5434</webElementGuid>
+      <webElementGuid>5d366162-e04b-4fe4-863b-2e0c30bf1127</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

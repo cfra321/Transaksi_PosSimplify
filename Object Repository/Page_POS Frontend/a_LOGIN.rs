@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>2423e14d-20a9-4bdd-85e7-ffa52be22205</webElementGuid>
+      <webElementGuid>48167756-b6f7-4333-a72a-dc2e40b1f3b8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/login/user</value>
-      <webElementGuid>d392aaf9-218d-4d4a-bb8c-dfc24be23f31</webElementGuid>
+      <webElementGuid>5c0e0ad6-e8c1-4476-a6bc-9811c1d62cec</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>waves-effect waves-light btn</value>
-      <webElementGuid>81fd1ec1-271c-44c1-8394-e72c82fa349c</webElementGuid>
+      <webElementGuid>533ceabe-7572-427d-88aa-3d02ac75ceef</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value>LOGIN</value>
-      <webElementGuid>b28028a7-050b-4372-9d91-ca59169464a8</webElementGuid>
+      <webElementGuid>6a0afa7b-b63d-4c47-a6a2-d566f40f1e7d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;report-cashier&quot;)/div[@class=&quot;container-full&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;row&quot;]/a[@class=&quot;waves-effect waves-light btn&quot;]</value>
-      <webElementGuid>f9e276b9-ac14-459e-84a0-57eaebe728f1</webElementGuid>
+      <webElementGuid>96004066-8a07-4781-b3bf-0cbacd0daff5</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='report-cashier']/div/div/div/a</value>
-      <webElementGuid>ea7b42b5-ddc0-4a11-8dd3-37ec741e97e0</webElementGuid>
+      <webElementGuid>6d4705cf-531d-42e5-b291-74209ed1ae25</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,63 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'LOGIN')]</value>
-      <webElementGuid>d2461af8-a8a4-4210-ab78-af13ff9da352</webElementGuid>
+      <webElementGuid>12995063-12d6-411b-9ac3-56f7f7ede243</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp15.000'])[2]/following::a[1]</value>
+      <webElementGuid>11bcf4bb-a0b3-4409-9ff4-a359d80582e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Selisih nilai setoran'])[1]/following::a[1]</value>
+      <webElementGuid>b304491b-e609-45dd-afa9-3b5b28755a69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='LOGIN']/parent::*</value>
+      <webElementGuid>ec8ef3a4-97d3-47f0-9c8f-c602fda76782</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/login/user')]</value>
+      <webElementGuid>f3f014c9-13c2-44c8-b173-badd2e18d8b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/a</value>
+      <webElementGuid>b1bdf06a-c568-496a-8818-c063e8ee5534</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/login/user' and (text() = 'LOGIN' or . = 'LOGIN')]</value>
+      <webElementGuid>3e841704-aaeb-4aca-8f8c-e1082d5d7430</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='- Rp450'])[1]/following::a[1]</value>
+      <webElementGuid>c62e58d3-cbc0-4f56-ae34-fc721606915a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,46 +135,6 @@
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp308.861'])[1]/following::a[1]</value>
       <webElementGuid>66596515-fa36-4f40-9698-c499a945ea45</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Selisih nilai setoran'])[1]/following::a[1]</value>
-      <webElementGuid>cc3f9e40-00f3-4139-9bb3-b83cb618b353</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='LOGIN']/parent::*</value>
-      <webElementGuid>ffa47303-dc68-4984-861b-6f0ed4def351</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:href</name>
-      <type>Main</type>
-      <value>//a[contains(@href, '/login/user')]</value>
-      <webElementGuid>2fe4ce36-8b4c-4146-9926-ed3544a1b942</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//div/div/div/a</value>
-      <webElementGuid>cbf0da9c-1488-4169-8cb8-95beaf6048f4</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//a[@href = '/login/user' and (text() = 'LOGIN' or . = 'LOGIN')]</value>
-      <webElementGuid>c2e05438-02b8-4581-85e0-f51015d92c63</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

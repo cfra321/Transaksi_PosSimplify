@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>label</value>
-      <webElementGuid>c951c0e5-4cef-463b-a969-5fcb18a37145</webElementGuid>
+      <webElementGuid>efb4e242-a7bc-4048-920e-60c8e78146c9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>for</name>
       <type>Main</type>
       <value>31517</value>
-      <webElementGuid>9083baec-0f84-4692-85cd-d087e1402ef4</webElementGuid>
+      <webElementGuid>8c0193c3-a1d9-42b2-ad39-832fb14ab189</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;payment-detail&quot;)/table[@class=&quot;bordered&quot;]/tbody[1]/tr[1]/td[4]/label[1]</value>
-      <webElementGuid>e17bf0c5-bd17-49f3-8e57-2a6107f877a3</webElementGuid>
+      <webElementGuid>4d7fc5b4-8375-4e1c-8cdc-58b1bea8b27d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='payment-detail']/table/tbody/tr/td[4]/label</value>
-      <webElementGuid>289ee2b0-42b9-43a2-a1b5-3e533584359b</webElementGuid>
+      <webElementGuid>0081c64b-6cd9-40be-8b9a-17f0a141c427</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//td[4]/label</value>
-      <webElementGuid>c2657f31-8c1e-4ce0-b744-e82bc17d3884</webElementGuid>
+      <webElementGuid>e5a4052f-96d3-48f1-a540-7c9210b2297d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

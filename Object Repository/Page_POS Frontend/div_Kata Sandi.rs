@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>70e5fc66-0c83-4a9b-a0cd-2222ffc1170d</webElementGuid>
+      <webElementGuid>be988feb-8d99-497b-9f13-37aa31843506</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>input-field col s12</value>
-      <webElementGuid>21dd99cb-5a2d-4481-b8da-9d03b619e21c</webElementGuid>
+      <webElementGuid>64fb1ada-2635-4f28-b089-5e12c313283a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -41,7 +41,7 @@
 
 Kata Sandi
 </value>
-      <webElementGuid>343e1619-f799-4ec4-87a4-7475581ce0bf</webElementGuid>
+      <webElementGuid>8be09fef-d17f-478a-9cc1-ccc18bba8b21</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -49,7 +49,7 @@ Kata Sandi
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;login-form&quot;)/div[@class=&quot;input-field col s12&quot;]</value>
-      <webElementGuid>a486e6a0-fae1-4259-b6eb-b04ed3a1f7b9</webElementGuid>
+      <webElementGuid>7c7b6f6e-38bb-478f-9075-e1b2a86d162d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -57,7 +57,7 @@ Kata Sandi
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='login-form']/div[2]</value>
-      <webElementGuid>37a78316-31d9-4e52-a024-b45d839ea35f</webElementGuid>
+      <webElementGuid>03dbeeba-a5fa-4f9f-8f57-db5b9b330748</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -65,7 +65,7 @@ Kata Sandi
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Nama Pengguna'])[1]/following::div[1]</value>
-      <webElementGuid>4401e5d6-dde3-4ba0-929f-0291bcbc40bd</webElementGuid>
+      <webElementGuid>4d38f6ce-171b-434d-8ef0-6086e1b3cd75</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -73,7 +73,7 @@ Kata Sandi
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Selamat Datang di Sistem POS v2.0'])[1]/following::div[2]</value>
-      <webElementGuid>9a11604a-daf9-4ff7-bfbc-e8b0ea64c2fe</webElementGuid>
+      <webElementGuid>39f5ff06-72df-4702-b500-76acae59f933</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -81,7 +81,7 @@ Kata Sandi
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'login-form', '&quot;', ')/div[@class=', '&quot;', 'input-field col s12', '&quot;', ']')])[1]/preceding::div[3]</value>
-      <webElementGuid>4bf23cfc-a138-427f-8f25-5b4173aed7bb</webElementGuid>
+      <webElementGuid>33d504e5-b588-4367-bc47-70f4b4914be9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -89,7 +89,7 @@ Kata Sandi
       <name>xpath:position</name>
       <type>Main</type>
       <value>//form/div[2]</value>
-      <webElementGuid>bbe5c1e0-f207-46c8-8c99-d494aec30110</webElementGuid>
+      <webElementGuid>2ea2bec7-55ac-4702-9146-b49d23597478</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,6 +103,6 @@ Kata Sandi
 
 Kata Sandi
 ')]</value>
-      <webElementGuid>027ec9e0-0083-43d3-90ce-5b593a796649</webElementGuid>
+      <webElementGuid>2e5f38a9-268f-44df-86e8-2b8c72f239c8</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

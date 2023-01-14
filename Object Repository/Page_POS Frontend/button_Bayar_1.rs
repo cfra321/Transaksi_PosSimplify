@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>63860ee3-611e-4b75-9547-39a785c407ed</webElementGuid>
+      <webElementGuid>7fcb8862-3a0d-4daa-b723-e4c460aed8b8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>waves-effect waves-green btn confirm</value>
-      <webElementGuid>863bea2c-625d-4bfe-a732-fd302786b741</webElementGuid>
+      <webElementGuid>90c7eadf-ee28-413d-b944-789ee41e7521</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>id</name>
       <type>Main</type>
       <value>btn_payment</value>
-      <webElementGuid>160cafc7-4bb7-4b24-957d-2f88e54aa679</webElementGuid>
+      <webElementGuid>433c2d85-d541-4d6d-a6de-0a8b444967c2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Bayar</value>
-      <webElementGuid>36b71ede-959a-4010-977b-fbaee8d5d0ac</webElementGuid>
+      <webElementGuid>c7e3d669-770d-4388-b2f9-524102bedc69</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;btn_payment&quot;)</value>
-      <webElementGuid>6f0221dd-f74f-494f-ab03-dfb065d615af</webElementGuid>
+      <webElementGuid>fa1d60b6-3369-4a71-b52a-ba4e0bfe318b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='btn_payment']</value>
-      <webElementGuid>60d57d24-7543-4331-854e-db2f61146307</webElementGuid>
+      <webElementGuid>7a92c9bf-cf03-4c75-867e-b012c4b246ff</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,55 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='payment-info-button-container']/div/div[2]/button</value>
-      <webElementGuid>dbc0d4d5-381b-4a9b-ade8-98234587fc81</webElementGuid>
+      <webElementGuid>0ad66d9c-53c5-4def-b935-ec2f04fa21e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp 0'])[2]/following::button[1]</value>
+      <webElementGuid>2c011c96-a0cb-4973-9d7f-96353de7217f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jumlah Kembalian'])[1]/following::button[1]</value>
+      <webElementGuid>597c8318-084c-47d9-9cb2-8d78a5b070da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'btn_payment', '&quot;', ')')])[1]/preceding::button[1]</value>
+      <webElementGuid>a3d10ce2-956d-4318-a0b1-24878d7c1904</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Bayar']/parent::*</value>
+      <webElementGuid>7f792271-32f9-4bd6-868b-df1c73a0b0e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button</value>
+      <webElementGuid>8f9be01e-7beb-40cf-8ed1-2f79ba7b247e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'btn_payment' and (text() = 'Bayar' or . = 'Bayar')]</value>
+      <webElementGuid>96a47ded-869d-4aec-8e40-611d190313ce</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,45 +127,5 @@
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp 8.861'])[1]/following::button[1]</value>
       <webElementGuid>57a64a5d-d8c2-4691-a262-192f5fd170ea</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jumlah Kembalian'])[1]/following::button[1]</value>
-      <webElementGuid>c3a528c0-972a-475e-b8fe-b8b0b4814ab0</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'btn_payment', '&quot;', ')')])[1]/preceding::button[1]</value>
-      <webElementGuid>a2cc481b-b64d-4c1f-b4b3-f1ce49a56226</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Bayar']/parent::*</value>
-      <webElementGuid>e84e7964-84dc-47ba-b547-a86f8d7ae8c1</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//div[2]/button</value>
-      <webElementGuid>4769ffd4-7dfd-469b-9c0f-fa426a9546ce</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//button[@id = 'btn_payment' and (text() = 'Bayar' or . = 'Bayar')]</value>
-      <webElementGuid>50a38b0d-9c82-4902-bae9-b826b2abeac1</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

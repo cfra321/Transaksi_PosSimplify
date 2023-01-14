@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>bd67d9e4-ad2e-4706-a4c2-adc1fa89218b</webElementGuid>
+      <webElementGuid>593385ef-a697-49c2-959c-ffeba6e56638</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>id</name>
       <type>Main</type>
       <value>submit-employee</value>
-      <webElementGuid>e03e824c-5853-4e93-a3f7-03bb5411219d</webElementGuid>
+      <webElementGuid>3295b23b-999d-4edb-8b2b-e3bd75fa3a4d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>waves-effect waves-green btn submit right</value>
-      <webElementGuid>6ac7187d-ed3c-4e18-aee2-b059fcd607f8</webElementGuid>
+      <webElementGuid>d9b93205-b00a-4e71-9bf5-d63c22117734</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -49,7 +49,7 @@
       SELESAI
       
     </value>
-      <webElementGuid>e6617825-3576-4c28-81c7-54e758afcd4c</webElementGuid>
+      <webElementGuid>0938304a-7396-4d83-8f9a-59109aed83ec</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -57,7 +57,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;submit-employee&quot;)</value>
-      <webElementGuid>cd5c8018-78a2-405e-80a1-bb86cd25452a</webElementGuid>
+      <webElementGuid>f54af48c-7240-4cef-8f34-752892ba277c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -65,7 +65,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='submit-employee']</value>
-      <webElementGuid>fb8f5288-517a-4643-bd68-bec1516b6304</webElementGuid>
+      <webElementGuid>c5842c58-ad07-4683-ad8a-66c143270999</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -73,7 +73,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='main-modal']/div/div[2]/div/button</value>
-      <webElementGuid>63ddd5bd-9e79-42e4-913e-2ea9f20e6b20</webElementGuid>
+      <webElementGuid>a8affae4-431e-44b4-a63c-17dc11605d90</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -81,7 +81,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='YUNI NURMAHAYATI'])[1]/following::button[1]</value>
-      <webElementGuid>c426f127-a314-4332-a93c-9f50f2162135</webElementGuid>
+      <webElementGuid>12132c1a-f1fd-4064-843e-683b01aa4538</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -89,7 +89,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='TEGUH WINARKO'])[1]/following::button[1]</value>
-      <webElementGuid>895bd116-3149-4417-808d-29f3dae8a890</webElementGuid>
+      <webElementGuid>17f4be22-cab8-4e63-963c-0abebcee8b59</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -97,7 +97,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'submit-employee', '&quot;', ')')])[1]/preceding::button[1]</value>
-      <webElementGuid>c6f51119-84b2-4e29-a98a-5bcb1a636317</webElementGuid>
+      <webElementGuid>0710a857-659d-47bb-8913-e54ad9fc875c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -105,7 +105,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='SELESAI']/parent::*</value>
-      <webElementGuid>570100b3-dcc1-4318-885e-0f9b60e10640</webElementGuid>
+      <webElementGuid>9c1806af-16f3-4adf-a332-11f358fb7234</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -113,7 +113,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/button</value>
-      <webElementGuid>8a06f1e9-424e-4525-836f-2e8eb95cace0</webElementGuid>
+      <webElementGuid>e7c04708-3548-4c9e-9cee-3a636f234588</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,6 +127,6 @@
       SELESAI
       
     ')]</value>
-      <webElementGuid>d1ca4837-e042-45e5-8024-92806e845ebc</webElementGuid>
+      <webElementGuid>692c6534-31da-4bb9-89fd-d0a0234b7107</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

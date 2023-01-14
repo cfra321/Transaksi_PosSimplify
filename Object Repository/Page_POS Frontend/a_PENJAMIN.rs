@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_PENJAMIN</name>
+   <tag></tag>
+   <elementGuidId>c80d4ec6-37fc-4508-b6e9-884a32914457</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='payment-method-container']/div/a[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>8c2df92d-7e73-4158-94bd-c79ca4e11b15</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#payment-insurance-method</value>
+      <webElementGuid>fcc1dd09-34d0-49d7-9213-6d0671561aee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-payment-form</name>
+      <type>Main</type>
+      <value>payment-insurance-method</value>
+      <webElementGuid>6b942c09-3c70-4317-b5e7-af45546fe810</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>method-expres center-align </value>
+      <webElementGuid>dd68bdaa-5ceb-4787-8a01-b3115e94e4a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+            
+            PENJAMIN
+        </value>
+      <webElementGuid>1b203ec2-9dce-4523-a13b-a1190f585f52</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;payment-method-container&quot;)/div[@class=&quot;payment-methods center-align&quot;]/a[@class=&quot;method-expres center-align&quot;]</value>
+      <webElementGuid>3c6ea6ae-1871-433e-96a1-bfe2f0e9e8ed</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='payment-method-container']/div/a[4]</value>
+      <webElementGuid>1fc3662b-4b9a-4517-a262-84f12335545f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bayar Dengan Point'])[1]/preceding::a[1]</value>
+      <webElementGuid>4c6832da-0166-4613-811a-f151227b911f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total Point'])[1]/preceding::a[1]</value>
+      <webElementGuid>0d71aaa1-0011-4a16-89ad-fb9b7d8a9ed4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='PENJAMIN']/parent::*</value>
+      <webElementGuid>dd87f839-4639-43fe-989d-6a9fab72f6cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '#payment-insurance-method')]</value>
+      <webElementGuid>f74577ae-b017-45e5-9ddc-a0d8f6b5e494</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[4]</value>
+      <webElementGuid>bca3af63-361f-474b-a0a8-05175803f162</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#payment-insurance-method' and (text() = '
+            
+            PENJAMIN
+        ' or . = '
+            
+            PENJAMIN
+        ')]</value>
+      <webElementGuid>8ab07fa3-e0a5-433e-88b4-4eab4e1b739a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

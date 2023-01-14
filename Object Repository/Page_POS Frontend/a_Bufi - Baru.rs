@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Bufi - Baru</name>
+   <tag></tag>
+   <elementGuidId>2161ce44-6363-420c-9908-b63705ffbb1a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='prescription-data']/div[3]/div/div/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.search-results.doctor-suggestion > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>7c73d92d-5f81-4b6b-9a8d-774c18ce416a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-doctor-id</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>790d80b1-4fa4-4f50-b620-25df7e73c47d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-doctor-name</name>
+      <type>Main</type>
+      <value>Bufi</value>
+      <webElementGuid>9211f908-1dbe-4fb7-9279-e55a8f796b93</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Bufi - Baru</value>
+      <webElementGuid>2857a692-98c7-43e6-8a9c-cc63a85131e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;prescription-data&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col s3&quot;]/div[@class=&quot;absolute&quot;]/div[@class=&quot;search-results doctor-suggestion&quot;]/a[1]</value>
+      <webElementGuid>1e203f52-38ef-4bc0-8239-a73f826990c7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='prescription-data']/div[3]/div/div/div/a</value>
+      <webElementGuid>aca64718-eb3f-437c-828b-254ea197d99b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Bufi - Baru')]</value>
+      <webElementGuid>2f504366-0727-4aa7-822e-89c1823377ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dokter*'])[1]/following::a[1]</value>
+      <webElementGuid>f034d7b2-1aa8-434d-beb9-dcb3a84675fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NIK'])[1]/following::a[1]</value>
+      <webElementGuid>afb1502f-b153-42d5-8606-8ca57733b829</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dokter harus diisi'])[1]/preceding::a[1]</value>
+      <webElementGuid>4c119aee-0659-402e-9444-2568ff709453</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PPK Asal*'])[1]/preceding::a[1]</value>
+      <webElementGuid>fce6d277-290e-4a52-8365-7339d66aa980</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Bufi - Baru']/parent::*</value>
+      <webElementGuid>13b4d4a9-358a-4223-a32c-e50d68bb60eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/a</value>
+      <webElementGuid>8b6f6897-a6bb-489a-8a3b-d10b372aacc3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = 'Bufi - Baru' or . = 'Bufi - Baru')]</value>
+      <webElementGuid>14a005cc-27a8-4b15-85be-e200dfc30a01</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

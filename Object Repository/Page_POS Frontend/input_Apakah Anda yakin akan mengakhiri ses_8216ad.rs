@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>3358ae7a-e570-4969-b8c1-4632aeaf63c0</webElementGuid>
+      <webElementGuid>0d264b60-25fc-460f-a8fe-5e7c351cfdb0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>required</name>
       <type>Main</type>
       <value>required</value>
-      <webElementGuid>f9997dcc-7870-49c4-8426-a7787d333a3b</webElementGuid>
+      <webElementGuid>2ba670c5-dc72-4955-9f99-83df8ce84044</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>format_currency</value>
-      <webElementGuid>669c949d-d7dd-402c-960c-c8d485b60350</webElementGuid>
+      <webElementGuid>22667800-099a-4e9c-94f4-11f9f8d620ed</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>061a2b81-2d50-4d33-b270-482fa29a125d</webElementGuid>
+      <webElementGuid>dbbda64f-86d3-4364-898e-96a7f4b4b6a3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>name</name>
       <type>Main</type>
       <value>cashier_session[bank_store]</value>
-      <webElementGuid>ee418f2f-b94d-492a-a8b5-e7c1719162f6</webElementGuid>
+      <webElementGuid>adf721bf-46ee-47ac-a79e-55b4c7ea70d3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>id</name>
       <type>Main</type>
       <value>cashier_session_bank_store</value>
-      <webElementGuid>6d9e1d98-a441-4319-926a-53c5ec8a477c</webElementGuid>
+      <webElementGuid>b9d4e0f6-3196-4aab-b268-76a29e3f028c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;cashier_session_bank_store&quot;)</value>
-      <webElementGuid>9200c6cf-2aab-4bf6-9435-f06fd2ba51da</webElementGuid>
+      <webElementGuid>061c98d3-ec54-4ba7-a078-97244598dc53</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,47 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='cashier_session_bank_store']</value>
-      <webElementGuid>3db38228-d883-46f7-9459-23a0eda78e60</webElementGuid>
+      <webElementGuid>adf13511-7bdf-4f7c-a4b9-991195e9d040</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='edit_cashier_session_5337']/div[2]/div/div/input</value>
+      <webElementGuid>b77f83e9-a98a-412b-8f6a-851f537eb467</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/form/div[2]/div/div/input</value>
+      <webElementGuid>a4d8865c-6203-475d-a0b0-0f5458bcdbd4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @name = 'cashier_session[bank_store]' and @id = 'cashier_session_bank_store']</value>
+      <webElementGuid>9e9a479d-ace1-417b-8139-33e95516d0b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='edit_cashier_session_5333']/div[2]/div/div/input</value>
+      <webElementGuid>7c66b02b-3524-4686-ad5c-d2810678d38b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='edit_cashier_session_5330']/div[2]/div/div/input</value>
+      <webElementGuid>e125dbf3-de57-4f9a-bf26-32f29f21c1c9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,22 +127,6 @@
       <type>Main</type>
       <value>//form[@id='edit_cashier_session_5326']/div[2]/div/div/input</value>
       <webElementGuid>77447d84-4fb7-4e1e-af38-7e63fb097724</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//div[6]/div/form/div[2]/div/div/input</value>
-      <webElementGuid>67525243-bf08-4cca-bffc-0760a58e835d</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//input[@type = 'text' and @name = 'cashier_session[bank_store]' and @id = 'cashier_session_bank_store']</value>
-      <webElementGuid>f9b8ab54-cb5a-4498-a940-f119537b1879</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

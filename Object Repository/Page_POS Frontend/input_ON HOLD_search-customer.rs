@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>296f1f54-5b41-484d-a5f6-82df9f357776</webElementGuid>
+      <webElementGuid>4e28e9ca-59a1-4361-8371-ae78df6345c5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>id</name>
       <type>Main</type>
       <value>search-customer</value>
-      <webElementGuid>ba34e6e6-2bc3-4a6b-ac02-3dd008e5e19b</webElementGuid>
+      <webElementGuid>651e37a3-5995-4c0d-8696-2a0ca427cc80</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>d4d86f28-1a3b-4b40-8b50-5db3f69b9b45</webElementGuid>
+      <webElementGuid>c63e0e4e-8cbf-4f65-a7fc-3eca0f08b439</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Kimia Farma Nasional</value>
-      <webElementGuid>ce93b3ff-943b-49ca-8426-4c67679ded94</webElementGuid>
+      <webElementGuid>57fac2a8-2bd8-4974-8ad7-4f6faaae2a45</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>type</name>
       <type>Main</type>
       <value>search</value>
-      <webElementGuid>6605c2c3-336b-4388-9cb3-613d7ab0ce35</webElementGuid>
+      <webElementGuid>745892a3-928e-44d6-85d3-08dc10d54986</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>onkeypress</name>
       <type>Main</type>
       <value>return event.keyCode != 13;</value>
-      <webElementGuid>f08e0194-4527-4718-bfb1-2a340e0a4185</webElementGuid>
+      <webElementGuid>8d636886-97c5-473f-b0f7-e7a7b24e6207</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;search-customer&quot;)</value>
-      <webElementGuid>5ee429f7-2ef2-4991-b01b-3ab156b2dc23</webElementGuid>
+      <webElementGuid>1a057ed3-2736-4bab-b949-f7f9da6f042a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='search-customer']</value>
-      <webElementGuid>1a2c4850-d938-48fa-b5c6-a75234c09f0d</webElementGuid>
+      <webElementGuid>e20b271f-e045-4041-b162-4c0665d43576</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='home']/div/div/div[2]/div/nav/div/form/div/div/input</value>
-      <webElementGuid>10b5db5e-ce16-4b5f-8590-c4d9d2876c4c</webElementGuid>
+      <webElementGuid>675da0d4-a56e-4afb-bf7c-d05f23d35ee6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//form/div/div/input</value>
-      <webElementGuid>512318e8-45cd-4772-9f71-6b4cc59be039</webElementGuid>
+      <webElementGuid>fbc66655-92e8-4b8e-be3c-b0cad369680c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'search-customer' and @placeholder = 'Kimia Farma Nasional' and @type = 'search']</value>
-      <webElementGuid>24a98d2c-c18e-4859-89e5-b2a8de99adc4</webElementGuid>
+      <webElementGuid>10a9a3a6-18b8-41e8-8f50-39e7d8176d8e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

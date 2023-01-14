@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>4c403110-5ea2-4ad1-8ebd-28e83cd9f4d5</webElementGuid>
+      <webElementGuid>720f9e29-fc06-485d-8377-643d72600e70</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>data-id-customer</name>
       <type>Main</type>
       <value>557</value>
-      <webElementGuid>1909ff89-f657-4ea9-91b3-3e814901acae</webElementGuid>
+      <webElementGuid>3e2877ba-c6ea-4a42-8026-eeeedcbe90e2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>username</name>
       <type>Main</type>
       <value>kukuhwicaksono105xb03Mg</value>
-      <webElementGuid>b101fb07-c8f0-4994-b185-ec70855af5e9</webElementGuid>
+      <webElementGuid>b0735710-dc92-418d-ade5-c9eb98030bc8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>email</name>
       <type>Main</type>
       <value>kukuhwicaksono105xb@gmail.com</value>
-      <webElementGuid>2aea7568-ce08-40d6-9038-0d708df783e5</webElementGuid>
+      <webElementGuid>5fb1addd-a435-40cb-9d85-b8200dd13f75</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>name</name>
       <type>Main</type>
       <value>Farma</value>
-      <webElementGuid>723a897b-56f4-4a6d-9d46-3b0980873734</webElementGuid>
+      <webElementGuid>1da60cd9-c26b-4cdc-9d3c-fe21ef3faeef</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>gender</name>
       <type>Main</type>
       <value>FEMALE</value>
-      <webElementGuid>e5addbf9-e5e9-4b24-8ca3-4d67e772fdc9</webElementGuid>
+      <webElementGuid>afba380a-b6d0-41f1-854d-efbfe63148eb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>phone</name>
       <type>Main</type>
       <value>+6282297334277</value>
-      <webElementGuid>32c48572-9bea-43ef-9e03-4fd40881518f</webElementGuid>
+      <webElementGuid>312818b0-8068-4a95-94c6-43a531f6fdf7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>is_barcode</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>886315a1-2f61-40a2-a1e4-d00a9d8a6413</webElementGuid>
+      <webElementGuid>58820812-3677-4209-ae22-dddd740ae686</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -86,15 +86,15 @@
       <name>cluster</name>
       <type>Main</type>
       <value>SILVER</value>
-      <webElementGuid>d7577ec6-95d2-49ae-b2e4-f2ad9e9ef258</webElementGuid>
+      <webElementGuid>f29dcb60-fe44-45e1-8ccb-d4340f70ef9b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>point</name>
       <type>Main</type>
-      <value>25000</value>
-      <webElementGuid>2e144c9b-9250-4466-890f-66bc24afacbc</webElementGuid>
+      <value>34000</value>
+      <webElementGuid>a2b2f7ae-69f0-4dbe-a159-feb4a0e54330</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>public_id</name>
       <type>Main</type>
       <value>C01ECG41Z47HU8</value>
-      <webElementGuid>bca5968a-9da4-4206-9ca5-27f104796a71</webElementGuid>
+      <webElementGuid>badb246d-eb7c-4339-ab97-b9334110cf72</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -110,7 +110,7 @@
       <name>text</name>
       <type>Main</type>
       <value>082297334277 - Farma  Silver Member</value>
-      <webElementGuid>3046fa7d-9c8c-443f-b42f-9871ab90eb60</webElementGuid>
+      <webElementGuid>21c04dec-270d-4ee1-9ad2-a933401a2b22</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;home&quot;)/div[@class=&quot;container-full&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col s6 payments&quot;]/div[@class=&quot;customer&quot;]/nav[@class=&quot;search col m12 z-depth-0&quot;]/div[@class=&quot;nav-wrapper&quot;]/form[1]/div[@class=&quot;input-field&quot;]/div[@class=&quot;search-results&quot;]/a[1]</value>
-      <webElementGuid>e7fae98c-dcf2-4693-8910-e2d392a5a72c</webElementGuid>
+      <webElementGuid>54bc0e52-8f30-408a-86f6-275cb8e6d603</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -126,7 +126,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//a[@name='Farma']</value>
-      <webElementGuid>74b83d9e-3945-4218-a1da-92f6285bd57c</webElementGuid>
+      <webElementGuid>fc664ad0-1efc-4aed-be39-2d7f6b887750</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,7 +134,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='home']/div/div/div[2]/div/nav/div/form/div/div[2]/a</value>
-      <webElementGuid>615ee19c-9dd7-4fb2-9ab2-faa3345c16c7</webElementGuid>
+      <webElementGuid>330e3169-70dd-4eb9-b416-6e22afd110a5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -142,7 +142,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='ON HOLD'])[1]/following::a[1]</value>
-      <webElementGuid>369fa0e9-d0bd-4001-8086-aae889bdb06d</webElementGuid>
+      <webElementGuid>0ce4d709-56a0-44ae-8cc1-95a3bfeabad4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -150,7 +150,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Member'])[1]/following::a[2]</value>
-      <webElementGuid>fcd623ec-ca72-49ca-ab72-9af0e0f0e931</webElementGuid>
+      <webElementGuid>0954e669-e3b1-4038-8a15-51b316eaa204</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -158,7 +158,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Reguler Member'])[1]/preceding::a[1]</value>
-      <webElementGuid>b89572c1-0775-4468-9fb7-2932a318795e</webElementGuid>
+      <webElementGuid>6fb910c6-a527-430a-bda5-4b214fbf52ed</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -166,7 +166,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='082297334277 - Farma']/parent::*</value>
-      <webElementGuid>376eaef8-0d9e-4bf3-b421-58a216dbb56b</webElementGuid>
+      <webElementGuid>82ac3fca-e93c-456c-861a-49174604b057</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -174,7 +174,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//form/div/div[2]/a</value>
-      <webElementGuid>b738e7b1-6683-409e-a825-8af2ab83a2e1</webElementGuid>
+      <webElementGuid>24812cc7-ed3e-4e6e-a40b-cab1737bda4e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -182,6 +182,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@name = 'Farma' and (text() = '082297334277 - Farma  Silver Member' or . = '082297334277 - Farma  Silver Member')]</value>
-      <webElementGuid>86653e16-056d-4610-930a-482b44d1ce88</webElementGuid>
+      <webElementGuid>8b64d4ca-3e51-49b7-9356-b6cc7af0a6f5</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

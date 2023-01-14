@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>8ba14f6e-81a0-4633-8d28-ac4957f036f3</webElementGuid>
+      <webElementGuid>a0e4d8b8-c85d-4889-b2d8-0f01deee0a0e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>id</name>
       <type>Main</type>
       <value>petty_cash_skip</value>
-      <webElementGuid>75b8db92-28e2-4356-9ed3-193cd97b6c17</webElementGuid>
+      <webElementGuid>a3b3d1b5-dfb4-454a-9ef1-d0b3636352eb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>waves-effect waves-green btn center-align col s12 confirm</value>
-      <webElementGuid>80f75be0-9385-4965-af0b-2bab3af0f664</webElementGuid>
+      <webElementGuid>a21c6af9-655a-476a-92ca-6fd80cfbc767</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Skip</value>
-      <webElementGuid>d25b7386-dfab-4130-afda-1aacffd0ee5e</webElementGuid>
+      <webElementGuid>047418d0-842e-44bf-849d-eba852e05392</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;petty_cash_skip&quot;)</value>
-      <webElementGuid>15ac8149-be58-4d5b-b995-e9b61c7fbc28</webElementGuid>
+      <webElementGuid>42a3dfe0-aa4e-4ac9-b668-b1db86d92310</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='petty_cash_skip']</value>
-      <webElementGuid>c9c79072-d5bb-43f5-b38e-d733e77f5ff3</webElementGuid>
+      <webElementGuid>8e16a16e-eca0-49f0-aa29-4182aa114ac1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='main-modal']/div/form/div[2]/div/button[2]</value>
-      <webElementGuid>ea08f62d-eb7a-4b35-846b-59e6d9ba4bae</webElementGuid>
+      <webElementGuid>ec0426c4-1b37-4076-bceb-793a96931ad1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Ok'])[1]/following::button[1]</value>
-      <webElementGuid>b6f9f3d8-8353-4492-8a78-83bc8a0f46ff</webElementGuid>
+      <webElementGuid>1d6defb1-a4dd-4754-b5f2-f7e87d50402b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,15 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Jumlah Modal Kasir'])[1]/following::button[2]</value>
-      <webElementGuid>0aee02c6-be09-4242-af78-3672989addd7</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'petty_cash_skip', '&quot;', ')')])[1]/preceding::button[1]</value>
-      <webElementGuid>dea7b755-9e1b-45a1-8d92-c36b6e0d2164</webElementGuid>
+      <webElementGuid>298704e0-aaa4-47ac-9861-ba4b63b739fb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Skip']/parent::*</value>
-      <webElementGuid>004d1bea-5767-40f0-a6be-d1c79842d63d</webElementGuid>
+      <webElementGuid>e74dd370-1bd1-4c9f-9c60-f3745cc7d40b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/button[2]</value>
-      <webElementGuid>8f096d79-a85e-484e-b850-e97922731f2e</webElementGuid>
+      <webElementGuid>9e167859-7dae-4604-a46e-ed876404eb2a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,6 +110,14 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@id = 'petty_cash_skip' and (text() = 'Skip' or . = 'Skip')]</value>
-      <webElementGuid>015ab463-2e46-4569-8cd8-dc2dc3238c98</webElementGuid>
+      <webElementGuid>1d16141c-8228-4ef6-9b16-c771bf25bff5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'petty_cash_skip', '&quot;', ')')])[1]/preceding::button[1]</value>
+      <webElementGuid>2d5b3082-6d1b-4ea5-a673-1276067e8df0</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

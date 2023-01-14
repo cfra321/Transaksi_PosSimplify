@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>6aaa2f30-5a03-43b0-9322-a9444e5582ef</webElementGuid>
+      <webElementGuid>fcad19b0-0dbc-4dea-ab42-ff78086492ed</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>normal</value>
-      <webElementGuid>03b8fc0f-6757-46ab-a723-3054d2ac60c6</webElementGuid>
+      <webElementGuid>15d3c068-fec3-4187-b3c6-6563794cdd2b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>src</name>
       <type>Main</type>
       <value>/assets/home-v3/pos-f488790fa5a479cdaf87d30a61767151f80297d85a8f45342cdeed09141db861.png</value>
-      <webElementGuid>0eea2d00-76ad-42d2-b36e-9caceeb18ca9</webElementGuid>
+      <webElementGuid>d4195459-d6c9-4e95-9832-634fbf0d067a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;pos_expres&quot;)/div[@class=&quot;menu&quot;]/img[@class=&quot;normal&quot;]</value>
-      <webElementGuid>4b519aa5-a075-440c-a616-eaba71a83533</webElementGuid>
+      <webElementGuid>4ddfa6f1-300b-4e8e-8e67-05d95970cd06</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//a[@id='pos_expres']/div/img</value>
-      <webElementGuid>9fc7db4d-bf68-41cc-a18c-83cada83a608</webElementGuid>
+      <webElementGuid>b5c3e500-d744-44b9-a051-21b333ba7f9c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//img</value>
-      <webElementGuid>e9ef2b45-87ba-4b04-bcbe-008cc3fac49f</webElementGuid>
+      <webElementGuid>2e61f0f4-ad6d-465a-a933-60d2b8710e2f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,6 +70,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//img[@src = '/assets/home-v3/pos-f488790fa5a479cdaf87d30a61767151f80297d85a8f45342cdeed09141db861.png']</value>
-      <webElementGuid>8abb179c-2aec-4999-869a-84c626bfec53</webElementGuid>
+      <webElementGuid>9fbcf246-0644-487e-a871-8616ef609b78</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

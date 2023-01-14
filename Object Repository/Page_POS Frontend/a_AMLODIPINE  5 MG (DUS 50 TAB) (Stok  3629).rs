@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_AMLODIPINE  5 MG (DUS 50 TAB) (Stok  3629)</name>
+   <tag></tag>
+   <elementGuidId>25966386-e91d-49ba-a58f-9f3584146d0a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='container-non-disp']/div/div/div/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.search-results.presc-suggestion > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>4f1665d1-5906-4c17-a42c-d3d893c6725c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-presc-id</name>
+      <type>Main</type>
+      <value>140153827</value>
+      <webElementGuid>11dcf292-3991-4d4e-810a-549fdd08f7f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name_drug</name>
+      <type>Main</type>
+      <value>AMLODIPINE  5 MG (DUS 50 TAB)</value>
+      <webElementGuid>53b4217d-f4d6-49bd-a312-3a02ce5c664a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> AMLODIPINE  5 MG (DUS 50 TAB) (Stok : 3629) </value>
+      <webElementGuid>b0774ce0-a8b9-4b57-9291-b2be089ea8dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;container-non-disp&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col s12 input-wrapper&quot;]/div[@class=&quot;absolute&quot;]/div[@class=&quot;search-results presc-suggestion&quot;]/a[1]</value>
+      <webElementGuid>ef666f22-2158-49e5-b9b1-684c65f96710</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='container-non-disp']/div/div/div/div/a</value>
+      <webElementGuid>3ba17016-f12a-4a7e-a996-17fce9c76056</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'AMLODIPINE  5 MG (DUS 50 TAB) (Stok : 3629)')]</value>
+      <webElementGuid>513d121a-657e-4e12-b8b4-72c7af49d3a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nama Obat'])[1]/following::a[1]</value>
+      <webElementGuid>fd4892dd-39ba-480d-b043-f351c44159e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Obat Racik'])[1]/following::a[1]</value>
+      <webElementGuid>ab8022d5-27d9-4a0e-b002-971edd3b1664</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AMLODIPINE OGB TAB.5MG KF-BI (Stok : 50)'])[1]/preceding::a[1]</value>
+      <webElementGuid>cda098e3-bb35-4d82-b91d-8088483ba8e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AMLODIPINE BESYLATE 10MG @30 TAB (PEHA) (Stok : 50)'])[1]/preceding::a[2]</value>
+      <webElementGuid>6b0f9764-6a20-4b16-a9cb-029c2aaeeb5f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div[2]/div/div/div/div/a</value>
+      <webElementGuid>587481ed-2f65-4794-91ee-57667492bd05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = ' AMLODIPINE  5 MG (DUS 50 TAB) (Stok : 3629) ' or . = ' AMLODIPINE  5 MG (DUS 50 TAB) (Stok : 3629) ')]</value>
+      <webElementGuid>7f468374-1ef0-4c68-9d90-6c33d5f0ae13</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/a</value>
+      <webElementGuid>a14c9057-d3e3-4832-91c4-0f304044aa76</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
