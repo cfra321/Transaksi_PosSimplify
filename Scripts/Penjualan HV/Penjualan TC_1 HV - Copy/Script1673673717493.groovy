@@ -22,7 +22,7 @@ WebUI.openBrowser('')
 WebUI.navigateToUrl('https://pos-development.buaya.dev/')
 
 
-
+for (int i=1; i<3; i++) {
 	WebUI.setText(findTestObject('Object Repository/Page_POS Frontend/input_Selamat Datang di Sistem POS v2.0_name'), 'tm_kf0254pospengumben')
 	
 	WebUI.setEncryptedText(findTestObject('Object Repository/Page_POS Frontend/input_Nama Pengguna_password'), 'Z5ruAGYKCYiN8GG6OuXgrw==')
@@ -67,4 +67,4 @@ WebUI.navigateToUrl('https://pos-development.buaya.dev/')
 	
 	WebUI.click(findTestObject('Object Repository/Page_POS Frontend/a_LOGIN'))
 	
-
+}
