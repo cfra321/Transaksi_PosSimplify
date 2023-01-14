@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_PANADOL COLDFLU NIGHT TAB100 (Stok 1000, _a8fd7c</name>
+   <tag></tag>
+   <elementGuidId>1232cd02-67a1-4f1f-a315-4ce1928cfd33</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='home']/div/div/div/div/nav/div/form/div/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.search-results-item > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>9e6a9985-e576-4f33-9cee-0b58cda6d104</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-item-id-search</name>
+      <type>Main</type>
+      <value>141667423</value>
+      <webElementGuid>89696f7d-957d-4ea3-99a0-9aa255018084</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>PANADOL COLD&amp;FLU NIGHT TAB@100 (Stok: 1000, stock lock: 0)</value>
+      <webElementGuid>63e3ab84-8e50-4e90-9f5e-35fe22860f1b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;home&quot;)/div[@class=&quot;container-full&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col s6 medicines&quot;]/div[@class=&quot;medicines-top&quot;]/nav[@class=&quot;search col m5 z-depth-0&quot;]/div[@class=&quot;nav-wrapper&quot;]/form[1]/div[@class=&quot;input-field&quot;]/div[@class=&quot;search-results-item&quot;]/a[1]</value>
+      <webElementGuid>eae31909-e928-42a4-a6d1-0f6f3926ef4b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='home']/div/div/div/div/nav/div/form/div/div/a</value>
+      <webElementGuid>30e56818-06eb-4643-a1bd-7613f3922dcf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nomor Transaksi : 18052#T1-111EY0018052L'])[1]/following::a[1]</value>
+      <webElementGuid>fd83f4cb-264d-4c5b-aaf0-e3c521895e37</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='not_interested'])[1]/following::a[1]</value>
+      <webElementGuid>5d3ed418-a8ca-482b-891e-b58ab47117de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='PANADOL COLD&amp;FLU NIGHT TAB@100 (Stok: 1000,']/parent::*</value>
+      <webElementGuid>6c2a42a1-54d8-4879-a5bb-7bab585dc968</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div/a</value>
+      <webElementGuid>aebe5967-61e6-465c-8d62-eec6e75f4582</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = 'PANADOL COLD&amp;FLU NIGHT TAB@100 (Stok: 1000, stock lock: 0)' or . = 'PANADOL COLD&amp;FLU NIGHT TAB@100 (Stok: 1000, stock lock: 0)')]</value>
+      <webElementGuid>5f15ff75-ed39-4fd3-a0e0-386e626418e4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

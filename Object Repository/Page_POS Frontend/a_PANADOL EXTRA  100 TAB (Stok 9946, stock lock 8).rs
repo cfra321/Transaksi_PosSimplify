@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_PANADOL EXTRA  100 TAB (Stok 9946, stock lock 8)</name>
+   <tag></tag>
+   <elementGuidId>94f75ebf-18e3-43d7-8bad-0b7d77d35006</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='home']/div/div/div/div/nav/div/form/div/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.search-results-item > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>3f9eb496-9ae4-4195-a346-1574a414608c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-item-id-search</name>
+      <type>Main</type>
+      <value>140207053</value>
+      <webElementGuid>75b38fa0-7ec8-4d4b-bc07-9cc80e12ea05</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>PANADOL EXTRA @ 100 TAB (Stok: 9946, stock lock: 8)</value>
+      <webElementGuid>d9045b95-47cd-4c4a-9127-02753f3d68e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;home&quot;)/div[@class=&quot;container-full&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col s6 medicines&quot;]/div[@class=&quot;medicines-top&quot;]/nav[@class=&quot;search col m5 z-depth-0&quot;]/div[@class=&quot;nav-wrapper&quot;]/form[1]/div[@class=&quot;input-field&quot;]/div[@class=&quot;search-results-item&quot;]/a[1]</value>
+      <webElementGuid>c8610797-9bae-4086-8f33-323ea45cc90f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='home']/div/div/div/div/nav/div/form/div/div/a</value>
+      <webElementGuid>4a096abe-9d13-4cfe-b61c-35f0a2f4a8ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nomor Transaksi : 18073#T1-111EY0018073H'])[1]/following::a[1]</value>
+      <webElementGuid>93d88d8a-3838-4055-9ea2-36fe229a10b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='not_interested'])[1]/following::a[1]</value>
+      <webElementGuid>e7fca41e-6062-41db-b99c-be884ffe4783</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='PANADOL EXTRA @ 100 TAB (Stok: 9946,']/parent::*</value>
+      <webElementGuid>90677560-c8c5-4a89-ae64-f04fec2f3593</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div/a</value>
+      <webElementGuid>f682a5bc-4336-4a23-9d4c-106e1540848e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = 'PANADOL EXTRA @ 100 TAB (Stok: 9946, stock lock: 8)' or . = 'PANADOL EXTRA @ 100 TAB (Stok: 9946, stock lock: 8)')]</value>
+      <webElementGuid>2ff7aa0d-6498-43c2-92fb-f337d0a80001</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

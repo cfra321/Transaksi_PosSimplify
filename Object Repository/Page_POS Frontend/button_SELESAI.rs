@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_SELESAI</name>
+   <tag></tag>
+   <elementGuidId>99a1695a-3ab2-4529-9ef2-94973a62670f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='submit-employee']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#submit-employee</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>bd67d9e4-ad2e-4706-a4c2-adc1fa89218b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>submit-employee</value>
+      <webElementGuid>e03e824c-5853-4e93-a3f7-03bb5411219d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>waves-effect waves-green btn submit right</value>
+      <webElementGuid>6ac7187d-ed3c-4e18-aee2-b059fcd607f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+      SELESAI
+      
+    </value>
+      <webElementGuid>e6617825-3576-4c28-81c7-54e758afcd4c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;submit-employee&quot;)</value>
+      <webElementGuid>cd5c8018-78a2-405e-80a1-bb86cd25452a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='submit-employee']</value>
+      <webElementGuid>fb8f5288-517a-4643-bd68-bec1516b6304</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main-modal']/div/div[2]/div/button</value>
+      <webElementGuid>63ddd5bd-9e79-42e4-913e-2ea9f20e6b20</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='YUNI NURMAHAYATI'])[1]/following::button[1]</value>
+      <webElementGuid>c426f127-a314-4332-a93c-9f50f2162135</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TEGUH WINARKO'])[1]/following::button[1]</value>
+      <webElementGuid>895bd116-3149-4417-808d-29f3dae8a890</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'submit-employee', '&quot;', ')')])[1]/preceding::button[1]</value>
+      <webElementGuid>c6f51119-84b2-4e29-a98a-5bcb1a636317</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='SELESAI']/parent::*</value>
+      <webElementGuid>570100b3-dcc1-4318-885e-0f9b60e10640</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/button</value>
+      <webElementGuid>8a06f1e9-424e-4525-836f-2e8eb95cace0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'submit-employee' and (text() = '
+      SELESAI
+      
+    ' or . = '
+      SELESAI
+      
+    ')]</value>
+      <webElementGuid>d1ca4837-e042-45e5-8024-92806e845ebc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

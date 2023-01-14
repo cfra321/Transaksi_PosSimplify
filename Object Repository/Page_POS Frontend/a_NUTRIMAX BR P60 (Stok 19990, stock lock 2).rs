@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_NUTRIMAX BR P60 (Stok 19990, stock lock 2)</name>
+   <tag></tag>
+   <elementGuidId>8071db95-b934-479e-85b5-7a3b86c260e5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='home']/div/div/div/div/nav/div/form/div/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.search-results-item > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>73f5731e-0e85-4cc9-8e04-63d2f0e69fea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-item-id-search</name>
+      <type>Main</type>
+      <value>140742719</value>
+      <webElementGuid>87993641-625c-499e-be4a-172ffbcbba95</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>NUTRIMAX BR P@60 (Stok: 19990, stock lock: 2)</value>
+      <webElementGuid>041fd0ff-c63f-4f17-a61b-7f2000282c8e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;home&quot;)/div[@class=&quot;container-full&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col s6 medicines&quot;]/div[@class=&quot;medicines-top&quot;]/nav[@class=&quot;search col m5 z-depth-0&quot;]/div[@class=&quot;nav-wrapper&quot;]/form[1]/div[@class=&quot;input-field&quot;]/div[@class=&quot;search-results-item&quot;]/a[1]</value>
+      <webElementGuid>cc8d7319-e88b-4ef2-bb9c-9a3600fe5401</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='home']/div/div/div/div/nav/div/form/div/div/a</value>
+      <webElementGuid>448dab4e-97c8-4b68-a9a8-4894ad3008e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nomor Transaksi : 18084#T1-111EY0018084E'])[1]/following::a[1]</value>
+      <webElementGuid>b3097334-4ba9-4797-b632-6e3da4830965</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='not_interested'])[1]/following::a[1]</value>
+      <webElementGuid>41fdb8a6-ab78-48a2-b643-cd00c27ad529</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='NUTRIMAX BR P@60 (Stok: 19990,']/parent::*</value>
+      <webElementGuid>95809495-87d6-417b-aeb0-c409b7bcb33f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div/a</value>
+      <webElementGuid>8a339daa-90ac-4036-b400-222b96884b0f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = 'NUTRIMAX BR P@60 (Stok: 19990, stock lock: 2)' or . = 'NUTRIMAX BR P@60 (Stok: 19990, stock lock: 2)')]</value>
+      <webElementGuid>c3497c26-d1c4-4c4f-bc60-d583cb43bbf3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

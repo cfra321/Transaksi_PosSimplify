@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_DEBITKREDIT</name>
+   <tag></tag>
+   <elementGuidId>b5ce5a3f-cb12-4d2c-8719-3bc0f8d41dd2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='payment-method-container']/div/a[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>9d126949-d642-4239-95c9-23a48181c002</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#payment-card-method</value>
+      <webElementGuid>01de63f1-36ac-4331-9c26-b5b957a5ba5d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-payment-form</name>
+      <type>Main</type>
+      <value>payment-card-method</value>
+      <webElementGuid>98a2bdfb-e588-449b-b0d3-c8b073df9d5c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>method-expres center-align </value>
+      <webElementGuid>395c209a-f22a-466e-93cf-ffe030bca5f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+            
+            DEBIT/KREDIT
+        </value>
+      <webElementGuid>8c1847d7-21cd-4332-9081-a838e73ee5bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;payment-method-container&quot;)/div[@class=&quot;payment-methods center-align&quot;]/a[@class=&quot;method-expres center-align&quot;]</value>
+      <webElementGuid>25b60428-02a0-4c9b-8c3c-9f9b4ac7b09c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='payment-method-container']/div/a[2]</value>
+      <webElementGuid>dde1906d-2f09-4aec-a01b-58496a3cdede</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Metode Pembayaran'])[1]/following::a[2]</value>
+      <webElementGuid>47405550-2c3a-40de-8d23-226d46fd46d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='DEBIT/KREDIT']/parent::*</value>
+      <webElementGuid>9c08d6cb-2a25-4bb3-8f4d-781edc0f5403</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '#payment-card-method')]</value>
+      <webElementGuid>8911df2c-8859-489a-9ba5-712d6f56d209</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/form/div/div/a[2]</value>
+      <webElementGuid>263b730a-a49a-4a8a-8b02-4b9514ebef3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#payment-card-method' and (text() = '
+            
+            DEBIT/KREDIT
+        ' or . = '
+            
+            DEBIT/KREDIT
+        ')]</value>
+      <webElementGuid>4483ac6e-6b7f-4c63-9572-e2976d9b549e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/a[2]</value>
+      <webElementGuid>38c32aad-0712-4bae-b7af-b31819ba6a18</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
