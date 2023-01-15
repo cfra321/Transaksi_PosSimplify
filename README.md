@@ -9,3 +9,9 @@ brtikut tampilan penjualan di POS.
 ![image](https://user-images.githubusercontent.com/93067182/212527261-87ac60d5-884e-449d-b9e4-48068261fc94.png)
 
 
+CONTOH AUTOMATION KATALON DI KF. MOBILE CEKOUT OBAT 
+
+
+
+https://user-images.githubusercontent.com/93067182/212554028-6c98cbdf-d9c8-4cd2-84c7-e8e16455bef7.mp4
+
