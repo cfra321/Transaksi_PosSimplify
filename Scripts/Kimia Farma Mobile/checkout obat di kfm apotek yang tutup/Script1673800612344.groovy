@@ -21,29 +21,61 @@ Mobile.startApplication('C:\\Users\\kukuh wicaksono\\Downloads\\kf_mobile_dev_st
 
 Mobile.switchToNative()
 
-Mobile.switchToNative()
+Mobile.tap(findTestObject('Object Repository/android.view.ViewGroup (2)'), 0)
 
-Mobile.scrollToText('setuju')
+Mobile.tap(findTestObject('Object Repository/android.widget.ImageView (12)'), 0)
 
-Mobile.tap(findTestObject('Object Repository/android.widget.TextView - Setuju (1)'), 0)
+Mobile.setText(findTestObject('Object Repository/android.widget.EditText - No. Handphone (6)'), '082297334277', 0)
 
-Mobile.switchToNative()
+Mobile.setText(findTestObject('Object Repository/android.widget.EditText - Kata Sandi (7)'), 'cfrawkg123', 0)
 
-Mobile.tap(findTestObject('Object Repository/android.widget.ImageView (4)'), 0)
-
-Mobile.setText(findTestObject('Object Repository/android.widget.EditText - No. Handphone (3)'), '082297334277', 0)
-
-Mobile.setText(findTestObject('Object Repository/android.widget.EditText - Kata Sandi (3)'), 'cfrawkg123', 0)
-
-Mobile.tap(findTestObject('Object Repository/android.widget.Button - Masuk (2)'), 0)
+Mobile.tap(findTestObject('Object Repository/android.widget.Button - Masuk (5)'), 0)
 
 Mobile.switchToNative()
 
-Mobile.scrollToText('keluar')
+Mobile.tap(findTestObject('Object Repository/android.widget.ImageView (13)'), 0)
 
-Mobile.tap(findTestObject('Object Repository/android.widget.RelativeLayout'), 0)
+Mobile.switchToNative()
+
+Mobile.scrollToText('WELLNESS OMEGA 3 FISHOIL')
+
+Mobile.tap(findTestObject('Object Repository/android.widget.TextView - Tambah ke Keranjang (3)'), 0)
+
+WebUI.delay(3)
+
+Mobile.tap(findTestObject('Object Repository/android.widget.TextView - Tambah ke Keranjang (4)'), 0)
+
+WebUI.delay(2)
+
+Mobile.tap(findTestObject('Object Repository/android.widget.ImageView (14)'), 0)
+
+WebUI.delay(2)
+
+Mobile.tap(findTestObject('android.widget.Button - Beli'), 0)
+
+WebUI.delay(2)
+
+Mobile.tap(findTestObject('android.widget.TextView - Pilih Pengiriman'), 0)
+
+Mobile.switchToNative()
+
+WebUI.delay(2)
+
+Mobile.tap(findTestObject('android.widget.TextView - GOSEND Same Day'), 0)
+
+Mobile.switchToNative()
+
+not_run: Mobile.tap(findTestObject('android.view.ViewGroup (6)'), 0)
+
+Mobile.scrollToText('Metode Pembayaran')
+
+Mobile.tap(findTestObject('Object Repository/android.view.ViewGroup (7)'), 0)
+
+Mobile.tap(findTestObject('Object Repository/android.widget.RadioButton (2)'), 0)
 
 Mobile.tap(findTestObject('android.widget.TextView - Bayar'), 0)
+
+WebUI.delay(2)
 
 Mobile.closeApplication()
 
