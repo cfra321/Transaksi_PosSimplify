@@ -13,7 +13,6 @@ brtikut tampilan penjualan di POS.
 ![image](https://user-images.githubusercontent.com/93067182/212527261-87ac60d5-884e-449d-b9e4-48068261fc94.png)
 
 
-
-
+Uploading bandicam 2023-01-16 00-44-14-066.mp4…
 
 
