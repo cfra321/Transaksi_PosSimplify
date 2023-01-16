@@ -1,6 +1,8 @@
 # CONTOH AUTOMATION KATALON DI KF. MOBILE CEKOUT OBAT 
 
-aplikasi dapat di dowload di link : https://drive.google.com/file/d/1jEXPqQ-4CcplbsuoXSROnrkDN_i9p2ze/view?usp=sharing
+aplikasi dapat di dowload di link : 
+
+https://drive.google.com/file/d/1jEXPqQ-4CcplbsuoXSROnrkDN_i9p2ze/view?usp=sharing
 
 https://user-images.githubusercontent.com/93067182/212554028-6c98cbdf-d9c8-4cd2-84c7-e8e16455bef7.mp4
 
